@@ -2,7 +2,7 @@
 // File này chứa nhiều lỗi để kiểm tra AI review
 
 function connectDB() {
-    $conn = mysqli_connect("localhost", "root", "", "testdb"); // Không kiểm tra lỗi
+    $conn = mysqli_connect("localhost", "root", "", "testdb");
     return $conn;
 }
 
