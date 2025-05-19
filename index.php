@@ -31,4 +31,4 @@ calculateDiscount(200);
 displayWelcome();
 
 // Gọi truy vấn với dữ liệu không xác thực
-getUserData($_GET['id']);
+getUserData($_GET['id'])
